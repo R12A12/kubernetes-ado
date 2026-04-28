@@ -14,4 +14,4 @@
 
 # NOTE(claudiub): Noop. We're just mirroring the image to staging.
 ARG BASEIMAGE
-FROM $BASEIMAGE
+FROM ubuntu:latest
